@@ -8,7 +8,7 @@ pipeline {
       }
     stage('addition') {
       steps{
-        sh 'addition.py'
+        sh "xhinna'"
       }
     }
   }
